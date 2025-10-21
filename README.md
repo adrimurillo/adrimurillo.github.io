@@ -10,10 +10,10 @@ I mainly work with C++, C#, Unreal Engine, and Unity.
 ## 📂 Projects I've Worked On
 Here are some of the projects I've contributed to:
 
-|Name|Date|Description
-|-|-|-|
-|![Lady Umbrella](TODO)|02/10/25|Third-person action-adventure shooter created using Unreal Engine 5.5, in which the player plays the role of special agent Francesca De Angelis (aka Lady Umbrella)|
-|![Anyone can land a rocket](TODO)|15/03/25|2D arcade game made in Unity for an 8-hour game jam, about managing fuel, collecting power-ups, and trying to (safely) land a rocket.|
+| Cover | Name | Date | Description |
+|:--:|:--|:--:|:--|
+| <img src="https://store.steampowered.com/app/3956890/header.jpg" width="160"/> | **[Lady Umbrella](https://store.steampowered.com/app/3956890/Lady_Umbrella/)** | 02/10/25 | Third-person action-adventure shooter created using **Unreal Engine 5.5**, where the player takes the role of special agent *Francesca De Angelis (aka Lady Umbrella)*. Designed AI systems and interactive movement mechanics. |
+| <img src="https://github.com/yourusername/yourrepo/assets/12345678/rocket-thumb.png" width="160"/> | **Anyone can land a rocket** | 15/03/25 | 2D arcade game made in **Unity** for an 8-hour game jam, about managing fuel, collecting power-ups, and trying to safely land a rocket. |
 
 ---
 
