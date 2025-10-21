@@ -13,7 +13,7 @@ Here are some of the projects I've contributed to:
 | Cover | Name | Date | Description |
 |:--:|:--|:--:|:--|
 | <img src="https://github.com/user-attachments/assets/f3306ba5-520c-4f8f-b43f-2ba78a5fa322" width="160"/> | **[Lady Umbrella](https://github.com/adrimurillo/LadyUmbrella)** | 02/10/25 | Third-person action-adventure shooter created using **Unreal Engine 5.5**, where the player takes the role of special agent *Francesca De Angelis (aka Lady Umbrella)*. Designed AI systems and interactive movement mechanics. |
-| <img src="https://github.com/user-attachments/assets/3022b2bc-5bf8-46b0-b1ee-7bc06bb58e37" width="160"/> | **Anyone can land a rocket(https://github.com/adrimurillo/ACLAR)** | 15/03/25 | 2D arcade game made in **Unity** for an 8-hour game jam, about managing fuel, collecting power-ups, and trying to safely land a rocket. |
+| <img src="https://github.com/user-attachments/assets/3022b2bc-5bf8-46b0-b1ee-7bc06bb58e37" width="160"/> | **[Anyone can land a rocket](https://github.com/adrimurillo/ACLAR)** | 15/03/25 | 2D arcade game made in **Unity** for an 8-hour game jam, about managing fuel, collecting power-ups, and trying to safely land a rocket. |
 
 ---
 
