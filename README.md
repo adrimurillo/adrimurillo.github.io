@@ -17,6 +17,9 @@ I mainly work with C++, C#, Unreal Engine, and Unity.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,unreal,git,github,unreal,unity,html,css,js&perline=6"/></p>
+
+
 
 ## 📂 Projects I've Worked On
 Here are some of the projects I've contributed to:
@@ -31,5 +34,3 @@ Here are some of the projects I've contributed to:
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-murillo-455357241/)
 
----
-⭐️ From [Your GitHub Username](https://github.com/your-username)
