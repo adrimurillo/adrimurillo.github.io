@@ -5,21 +5,7 @@ I mainly work with C++, C#, Unreal Engine, and Unity.
 
 ## 🛠️ Skills & Technologies
 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Blueprints](https://img.shields.io/badge/Blueprints-6E4C13?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Source Control](https://img.shields.io/badge/Source%20Control-FF4500?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,unreal,git,github,unreal,unity,html,css,js&perline=6"/></p>
-
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,unreal,git,github,unreal,unity,html,css,js,notion,jira&perline=6"/></p>
 
 ## 📂 Projects I've Worked On
 Here are some of the projects I've contributed to:
