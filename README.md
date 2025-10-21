@@ -5,7 +5,7 @@ I mainly work with C++, C#, Unreal Engine, and Unity.
 
 ## 🛠️ Skills & Technologies
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,unreal,git,github,unreal,unity,html,css,js,notion,jira&perline=6"/></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,unreal,git,github,unreal,unity,html,css,js,notion,angular,tensorflow,keras&perline=6"/></p>
 
 ## 📂 Projects I've Worked On
 Here are some of the projects I've contributed to:
@@ -19,4 +19,5 @@ Here are some of the projects I've contributed to:
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-murillo-455357241/)
+- 🕹️ [Steam Project – Lady Umbrella](https://store.steampowered.com/app/3956890/Lady_Umbrella/) 
 
